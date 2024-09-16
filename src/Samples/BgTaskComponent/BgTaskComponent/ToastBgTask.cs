@@ -6,7 +6,7 @@ using Windows.ApplicationModel.Background;
 using Windows.Data.Xml.Dom;
 using Windows.UI.Notifications;
 
-namespace BgTaskComponent
+namespace BgTaskComponent.WAS
 {
     public sealed class ToastBgTask: IBackgroundTask
     {
